@@ -17,7 +17,7 @@ Example usage
 host $ cd libxenon-homebrew-app/
 host $ docker run -it -v $PWD:/app free60/libxenon:latest
 docker $ cd /app
-docker $ make
+docker $ make 
 ```
 
 ## Manual build
